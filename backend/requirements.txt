@@ -1,0 +1,6 @@
+fastapi==0.68.1
+uvicorn
+numpy
+opencv-python-headless
+nltk
+pandas

@@ -1,0 +1,56 @@
+/* Footer.css */
+
+.bg-footer {
+    background-color: navy;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-between; /* Display titles side by side with space in between */
+    background-color: navy;
+}
+
+.tag {
+    padding: 20px;
+    background-color: navy; /* Add padding around each title group */
+}
+
+.footer-title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color: navy;
+    color: #fff;
+}
+
+.link {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    
+    background-color: navy;
+}
+
+.link:hover {
+    color: #FA7D19;
+}
+
+.text-center {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    
+}
+#bot{
+    background-color: #333;
+}
+#Se{
+    padding-left:5% ;
+}
+#Le{
+    padding-right: 5%;
+}
